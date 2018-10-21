@@ -1,0 +1,106 @@
+Draft
+
+Space App Challenge
+
+Challenges > Volcanoes, Icebergs, and Asteroids (oh my) > Don’t forget the can opener
+
+Team Name/ App Name: - Don’t worry - Check it - Gotcha - check it up - take it up - 42nately - APPocalipse - Be Ready - Cheesequake - Got IT -
+
+
+THE APP % scheme of the app slides
+
+OPENING % opening page of the app
+
+	Sign Up - Login % first two possible options
+	
+	> Sign Up	% The user must fill in all the slots to register
+		> Name
+		> Surname
+		> Living address % it will become your default position fo the Home feature
+		> UserName/Mail/Phone Number % it will be used to log in
+		> PW
+
+			
+	> Login	 	% after the registration procedure the user can log in by filling this part
+		> UserName
+		> PW
+
+MAIN PAGE		% home page of the app
+
+	Personal Info - Global(things around the world) - Home(Geo-localization, …) - Journey - Family - Download % possible choices
+
+
+	> Personal Info	% it gathers all your info( as many as u can ), some of them may be used by third parts and family members if shared online
+		> Name
+		> Surname
+		> Birthday 	% necessary to advertisement 
+		> Sex
+		> Address
+		> Emergency Contact Numbers	% displayed if not logged in
+		> Codice Fiscale
+		> Health info	% info to make up the personal(medical) check-list
+			> Blood Group
+			> Medical Records  
+				> List of all your problems and related therapies (you check yours and u add therapies)
+			> Allergies
+			> Drugs
+			> Height
+			> Weight
+
+
+	>  Global % it opens a page with the world (similar to a google Earth view, like the NASA example), there’s also a pop-up menu with all the catastrophes
+				% you can either move the Earth and select a country or select a cata form the pop menu.
+		> selecting a cata will show dots all over the globe where things happened
+		> selecting a dot	% if u click on a dot			> general info about that thing(date, magnitude, casualities, damages, AoE, possible safe zones, how to deal with it, …)			> Shows images before and after + other info like temperatures, pressure other stuff. % images taken form NASA satellites			> 
+							
+			> if u select a country % if u click on a country on the Earth surface
+				> general info of that country( GPS position )
+				> recent climatic changes 
+				> Recent cata events		% these 2 last thing might be linked together: one thing can be the cause of the other
+				 				
+	
+	>	Home 
+		> The first time on-line will ask to download the area package % this way it can work offline
+		> Generic Check-list (food, water, first aid, personal(medical)) % essential thing for u to survive 
+		> info about the most frequent cata around you % how to deal with it, tips
+		> check-list for the most frequent cata in that area ( with all the items that you r missing)(also printable pdf)
+			> for each event	% pop menu 
+				> Shows images before and after + other info like temperatures, pressure other stuff % graphic info about past events (thx to NASA satellites)
+				> Shows informational videos and how to deal with the situation
+		> Emergency number of that area % this is also available without logging in
+
+
+	> Journey 	%  this section helps u planning things u’ll need for your trip ;)
+		> Select where and when. You may download the safety package (highly recommended) % by giving info about location and time the app will give u info about that location
+		if dowloaded, it works offline
+			> Essential Check-list (personal(medical)) due to the trip, I can’t bring everything, u might get other things there (Also printable pdf)
+			> info about the place you r visiting % same info u’d get with the “Global” feature. u might find more details			> emergency number %  this is also available without logging in
+
+
+	> Family   % this feature makes u create either a group of users that can share info about their status or just add people that will be notified if u happen to be in AoE during a cata
+		> add family/relatives/friends/anyone you want info (number, email, name, address) % this person will be notified with a message.
+		> add a user name % the user becomes a part of the family. 
+		> emergency! % feature automatically activated if GPS systems sees u in AoE
+			> user % if u r in the AoE internet/cellular message will automatically be sent to all the other family members after tot time. Until that time you’ll be able to click on SAFE status and notify other family members. (Similar to the facebook feature) that tags u as SAFE)
+The SAFE status option appears and can be selected in the main page
+			> family members % they will be notified about your status with internet/cellular message
+		> localization % members of a family can see each other on a map and each others position. Green Light means SAFE, RED light NOT-SAFE/no info
+
+(if satellite relive that you are in a zone in which there’s a disaster, send you and your family a message. If you are safe click on green button and it will be sent also to other component of the group, otherwise a message with your last position and an alarm message)
+
+	> Download % this feature shows u all the downloaded material. U might delete downloaded material at any time
+	 	it contains images, videos, infos, satellite features about a target location.
+
+
+Check-list structure (Essential + Personal(medical) + event) 
+ 
+	Items - Weight - if the items needs power supply - if u have it or not: if not where u can find/shop it. (Auxiliary items)
+
+	TOTAL WEIGHT: if above a tot: warning
+
+
+
+
+												           
+												
+
